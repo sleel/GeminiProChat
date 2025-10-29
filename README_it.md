@@ -71,6 +71,7 @@ Questo avvierà il servizio **geminiprochat**, accessibile da `http://localhost:
 | `HEAD_SCRIPTS` | Inserisci analisi o altri script prima di `</head>` della pagina | ❌ |
 | `PUBLIC_SECRET_KEY` | Stringa segreta per il progetto. Utilizzare per generare firme per le chiamate API | ❌ |
 | `SITE_PASSWORD` | Imposta la password per il sito, supporta più password separate da virgola. Se non impostato, il sito sarà pubblico | ❌ |
+| `GEMINI_MODEL_NAME` | Personalizza il modello Gemini da utilizzare. Se non impostato, il valore predefinito è `gemini-2.5-flash` | ❌ |
 
 ## Esecuzione locale
 
@@ -124,3 +125,8 @@ Questo progetto è ispirato e basato sul seguente progetto open source:
 Se questo repository ti è utile, offrimi un caffè, grazie mille!😄
 
 <a href="https://www.buymeacoffee.com/babaohuang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+## Strumenti AI consigliati
+
+
+[ElevenMusic | World's best AI music generator](https://elevenmusic.ai?utm_source=geminiprochatgithub)
