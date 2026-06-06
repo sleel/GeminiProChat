@@ -326,8 +326,6 @@ http://10.10.66.1:8009/udp/226.0.1.247:2123
 #EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文HD
 http://r.jdshipin.com/cCCzW?$1920x1080
 #EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文HD
-http://rihou.cc:555/tv/[Pd]凤凰中文HD?$1920x1080
-#EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文HD
 https://cdn6.163189.xyz/163189/fhzw?$1920x1080
 #EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文HD
 http://218.206.193.218:8888/hls/110/index.m3u8?$1920x1080
@@ -349,14 +347,10 @@ http://yulang132.cn:58888/udp/239.94.2.51:5140?$1920x1080
 http://zmgd.zyrnet.com:8888/hls/110/index.m3u8?$1920x1080
 #EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文HD
 http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文HD
-https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="凤凰卫视",凤凰资讯HD
 http://183.239.108.37:1698/hls/95/index.m3u8?$8M1920x1080
 #EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="凤凰卫视",凤凰资讯HD
 http://r.jdshipin.com/0Rp07?$1920x1080
-#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="凤凰卫视",凤凰资讯HD
-http://rihou.cc:555/tv/[Pd]凤凰资讯HD?$1920x1080
 #EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="凤凰卫视",凤凰资讯HD
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8?$8M1920x1080
 #EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="凤凰卫视",凤凰资讯HD
@@ -371,8 +365,6 @@ https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
 http://183.239.108.37:1698/hls/97/index.m3u8?$9M1920x1080
 #EXTINF:-1 tvg-name="凤凰香港HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="凤凰卫视",凤凰香港HD
 http://r.jdshipin.com/yDoTN?$1920x1080
-#EXTINF:-1 tvg-name="凤凰香港HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="凤凰卫视",凤凰香港HD
-http://rihou.cc:555/tv/[Pd]凤凰香港HD?$1920x1080
 #EXTINF:-1 tvg-name="凤凰香港HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="凤凰卫视",凤凰香港HD
 https://cdn6.163189.xyz/163189/fhhk?$1920x1080
 #EXTINF:-1 tvg-name="凤凰香港HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="凤凰卫视",凤凰香港HD
