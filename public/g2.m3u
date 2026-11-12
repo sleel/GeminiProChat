@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-chno="1" group-title="山西本地" catchup="default" catchup-days="7" catchup-source="http://10.10.66.1:8009/rtsp/10.112.2.62:554/sxgdayt/ch16022516103856166167?AuthInfo=8lDwYSGKL2wvvCq10nhfjaNfLqsLQMN89t6u3U2CWq6QVKkBNfDevqAz%2FOvYZbY%2BgA%2BdZ9rzeC1V9HMxRPXFZg%3D%3D&Playtype=1&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&r2h-seek-mode=range(UTC%2B8/10800)",山西卫视高清
 http://10.10.66.1:8009/rtp/226.0.2.152:9128
 #EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-chno="2" group-title="山西本地" catchup="default" catchup-days="7" catchup-source="http://10.10.66.1:8009/rtsp/10.112.2.62:554/sxgdayt/ch21010514134311064533?AuthInfo=8lDwYSGKL2wvvCq10nhfjZbQk%2BMnJ0HFNe7rQivc1%2FY5mSRYQ7rwNeWdXJrTr552gA%2BdZ9rzeC1V9HMxRPXFZg%3D%3D&Playtype=1&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}&r2h-seek-mode=range(UTC%2B8/10800)",山西黄河HD
